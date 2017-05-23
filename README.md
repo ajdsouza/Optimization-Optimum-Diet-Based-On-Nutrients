@@ -4,3 +4,6 @@ Given the nutrient in each food, chooses an optimum diet to reduce cholesterol a
 Implementation in Mosel-Xpress
 
 Using Column Generation Technique
+
+Latex report is at the following link
+https://www.overleaf.com/read/fmbxtbxfgpkg

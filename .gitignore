@@ -1,5 +1,13 @@
+
 # files to be ignored
 
 *.swp
 *.bdg
 *.bim
+*.lot
+*.lof
+*.aux
+*.toc
+*.synctex
+*.gz
+*.zip
